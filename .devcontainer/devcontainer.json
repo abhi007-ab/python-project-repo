@@ -1,0 +1,10 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/oleksis/devcontainer-features/python-launcher:1": {},
+		"ghcr.io/hspaans/devcontainer-features/django-upgrade:2": {},
+		"ghcr.io/devcontainers-extra/features/gdbgui:2": {},
+		"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {},
+		"ghcr.io/httpdss/devcontainers-features/struct:1": {}
+	}
+}
